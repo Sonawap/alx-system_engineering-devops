@@ -8,3 +8,5 @@ This Repo contains scripts that perform different functions in terminal
 3-listfiles contains command to list files in a more detailed format
 
 4-listmorefiles list hidden files and gives more details about the current directory
+
+5-listfilesdigitonly contains command to list hidden, user and group id of a directory

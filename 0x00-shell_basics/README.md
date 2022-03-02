@@ -12,3 +12,5 @@ This Repo contains scripts that perform different functions in terminal
 5-listfilesdigitonly contains command to list hidden, user and group id of a directory
 
 6-firstdirectory contains command to create a file in a folder other than the current one
+
+updated the contents of readme and creted 7-moveth... file

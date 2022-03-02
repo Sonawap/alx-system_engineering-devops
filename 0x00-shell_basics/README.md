@@ -10,3 +10,5 @@ This Repo contains scripts that perform different functions in terminal
 4-listmorefiles list hidden files and gives more details about the current directory
 
 5-listfilesdigitonly contains command to list hidden, user and group id of a directory
+
+6-firstdirectory contains command to create a file in a folder other than the current one

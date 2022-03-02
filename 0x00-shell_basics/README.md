@@ -18,3 +18,5 @@ This Repo contains scripts that perform different functions in terminal
 8-firstdelete contains command to delete a file
 
 9-firstdirdeletion contains command to delete a directory
+
+10-back contains command to return to a previos directory

@@ -4,3 +4,5 @@ This Repo contains scripts that perform different functions in terminal
 1-listit contains the command to list the files in the current directory
 
 2-bring_me_home file contains command to take you the home directory
+
+3-listfiles contains command to list files in a more detailed format

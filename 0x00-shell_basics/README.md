@@ -13,6 +13,8 @@ This Repo contains scripts that perform different functions in terminal
 
 6-firstdirectory contains command to create a file in a folder other than the current one
 
-updated the contents of readme and creted 7-moveth... file
+7-movethatfile contains command to move a file from one directory to another
 
 8-firstdelete contains command to delete a file
+
+9-firstdirdeletion contains command to delete a directory

@@ -6,3 +6,5 @@ This Repo contains scripts that perform different functions in terminal
 2-bring_me_home file contains command to take you the home directory
 
 3-listfiles contains command to list files in a more detailed format
+
+4-listmorefiles list hidden files and gives more details about the current directory
